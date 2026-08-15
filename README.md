@@ -68,21 +68,6 @@ Norte (USA). Le construí su presencia web para posicionar la marca: mi primer c
 |---|---|---|
 | Una web accesible no es un gasto: son más clientes y más alcance. | Del requisito legal (Ley 1712) a una web realmente usable. | De *"no sé por dónde empezar"* a construir y automatizar con IA. |
 
-### `›` Comparto lo que aprendo
-
-Escribo y publico sobre **accesibilidad digital**, **IA aplicada de forma práctica**,
-**automatización y ahorro de tiempo**, y **el camino tech** (cómo avanzar por cuenta propia).
-Si algo de esto te sirve, **sígueme** y hablemos — construyo comunidad, no audiencia.
-
-<p>
-  <img alt="Perfil accesible: contraste AA/AAA" src="https://img.shields.io/badge/Accesible-contraste_AA%2FAAA-0E1E16?style=flat-square&labelColor=0E1E16&color=0A6F63">
-  <img alt="Base: Pereira, Colombia" src="https://img.shields.io/badge/Base-Pereira,_Colombia-0E1E16?style=flat-square&labelColor=0E1E16&color=0A6F63">
-  <img alt="Modelo consultivo" src="https://img.shields.io/badge/Modelo-consultivo-0E1E16?style=flat-square&labelColor=0E1E16&color=0A6F63">
-</p>
-
----
-
 <p align="center">
-  <code>$ echo "¿Una web que incluya a todos o dar el salto a la IA? Hablemos."</code><br>
   <sub><b>0DRDEV</b> · <code>›0dr.dev</code> · <a href="https://0drdev.vercel.app/">0drdev.vercel.app</a> · Hecho accesible desde Pereira, Colombia</sub>
 </p>
