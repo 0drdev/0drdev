@@ -56,7 +56,7 @@ El **0** de la marca significa _cero barreras_, en doble sentido: **para las per
 
 ### `›` Prueba social
 
-**All You Can Stitch** — tapicería artesanal y restauración de muebles en Troutman, Carolina del
+**[All You Can Stitch](https://allyoucanstitch.com/)** — tapicería artesanal y restauración de muebles en Troutman, Carolina del
 Norte (USA). Le construí su presencia web para posicionar la marca: mi primer cliente, y ya internacional.
 👉 _Tu proyecto puede ser el próximo caso._
 
