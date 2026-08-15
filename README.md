@@ -27,7 +27,7 @@ Hola 👋 Soy **Daniel Ramírez Duque** (`@0drdev`), ingeniero de Sistemas y Tel
 en **Pereira, Colombia**. Construyo **web accesible**, **automatización** e **IA aplicada** — y lo
 explico como lo haría un buen profesor: cercano, directo y sin jerga.
 
-El **0** de la marca significa *cero barreras*, en doble sentido: **para las personas**
+El **0** de la marca significa _cero barreras_, en doble sentido: **para las personas**
 (web usable por todos) y **del conocimiento** (que cualquiera pueda aprender a construir con IA).
 
 > **Accesibilidad de verdad, no solo en el papel.** Llevo **5,5 años ejerciéndola a diario** dentro
@@ -58,15 +58,15 @@ El **0** de la marca significa *cero barreras*, en doble sentido: **para las per
 
 **All You Can Stitch** — tapicería artesanal y restauración de muebles en Troutman, Carolina del
 Norte (USA). Le construí su presencia web para posicionar la marca: mi primer cliente, y ya internacional.
-👉 *Tu proyecto puede ser el próximo caso.*
+👉 _Tu proyecto puede ser el próximo caso._
 
 ---
 
 ### `›` Para quién construyo
 
-| Emprendes o tienes pyme | Universidad o entidad pública | Quieres aprender IA |
-|---|---|---|
-| Una web accesible no es un gasto: son más clientes y más alcance. | Del requisito legal (Ley 1712) a una web realmente usable. | De *"no sé por dónde empezar"* a construir y automatizar con IA. |
+| Emprendes o tienes pyme                                           | Universidad o entidad pública                              | Quieres aprender IA                                              |
+| ----------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
+| Una web accesible no es un gasto: son más clientes y más alcance. | Del requisito legal (Ley 1712) a una web realmente usable. | De _"no sé por dónde empezar"_ a construir y automatizar con IA. |
 
 <p align="center">
   <sub><b>0DRDEV</b> · <code>›0dr.dev</code> · <a href="https://0drdev.vercel.app/">0drdev.vercel.app</a> · Hecho accesible desde Pereira, Colombia</sub>
