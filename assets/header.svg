@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="0DRDEV — Cero barreras en el desarrollo digital">
+  <defs>
+    <style>
+      .mono { font-family: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; }
+      .sans { font-family: 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Fondo Pine -->
+  <rect width="1280" height="420" fill="#0E1E16"/>
+
+  <!-- Barra superior tipo ventana de terminal -->
+  <rect x="0" y="0" width="1280" height="52" fill="#0A150F"/>
+  <circle cx="34" cy="26" r="7" fill="#FF4D4D"/>
+  <circle cx="60" cy="26" r="7" fill="#2C4034"/>
+  <circle cx="86" cy="26" r="7" fill="#2C4034"/>
+  <text x="120" y="31" class="mono" font-size="16" fill="#2C4034" letter-spacing="1">— 0dr.dev — bash</text>
+
+  <!-- Logo lockup -->
+  <text x="80" y="200" class="mono" font-size="104" font-weight="700" letter-spacing="-4">
+    <tspan fill="#FF4D4D">›0dr</tspan><tspan fill="#F4F5F1">.dev</tspan>
+  </text>
+  <rect x="700" y="128" width="18" height="76" fill="#FF4D4D"/>
+
+  <!-- Etiqueta -->
+  <text x="82" y="256" class="mono" font-size="17" font-weight="600" letter-spacing="3" fill="#2C4034">DANIEL RAMÍREZ DUQUE · PEREIRA, COLOMBIA</text>
+
+  <!-- Tagline -->
+  <text x="80" y="322" class="sans" font-size="34" font-weight="500" fill="#E6EAE4">
+    Cero barreras en el <tspan fill="#FF4D4D" font-weight="700">desarrollo digital</tspan>.
+  </text>
+
+  <!-- Prompt de comando -->
+  <text x="80" y="378" class="mono" font-size="20" fill="#0A6F63">
+    <tspan fill="#2C4034">$</tspan> git clone <tspan fill="#E6EAE4">https://github.com/0drdev</tspan>
+  </text>
+  <rect x="512" y="360" width="12" height="24" fill="#FF4D4D"/>
+</svg>
